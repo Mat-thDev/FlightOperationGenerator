@@ -2,6 +2,7 @@
   "name": "fog",
   "private": true,
   "version": "0.1.0",
+  "description": "Gerador de operações de voo plausíveis para MSFS — defina critérios e planeje no SimBrief.",
   "type": "module",
   "scripts": {
     "dev": "vite",

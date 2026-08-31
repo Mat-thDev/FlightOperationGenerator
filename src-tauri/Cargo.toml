@@ -1,7 +1,7 @@
 [package]
 name = "fog"
 version = "0.1.0"
-description = "A Tauri App"
+description = "Gerador de operações de voo plausíveis para MSFS — defina critérios e planeje no SimBrief."
 authors = ["you"]
 edition = "2021"
 
